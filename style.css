@@ -593,3 +593,114 @@ color: #6070FF;
     margin-top: 24px;
     margin-left: 20px;
 }
+.foot{
+    width: 375px;
+height: 920px;
+top: 5410px;
+
+background-color: blue;
+
+}
+
+.contact_form_container {
+    background-image: url(./asset/Ellipse\ 3.png);
+    background-image: url(./asset/contact\ form\ shapes-mobile@2x.png);
+    margin-top: 150px;
+    border-top-left-radius: 5.625rem;
+
+  }
+    .container_content h1 {
+        width: 801px;
+    height: 56px;
+    top: 4734px;
+    margin-left: -203px;
+    margin-top: 70px;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:white;
+    }
+    .container_content p {
+        width: 327px;
+        height: 137px;
+        top: 4802px;
+        margin-left: 24px;
+        font-family: Poppins;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin-top: -8px;
+        color: white;
+
+    }
+
+
+  .texes{
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      margin-left: 14px;
+  }
+  .texes input {
+    width: 327px;
+    height: 48px;
+    top: 4991px;
+    justify-items: space-between;
+    margin-top: 16px;
+    border-radius: 8px; 
+    color: black;
+
+  }
+.texes textarea {
+      font-family: poppins;
+      width: 19.3rem;
+      height: 10.625rem;
+      padding: 1rem 1rem;
+      color: #B3Bac5;
+      border-radius: 0.6rem;
+      border: none;
+  }
+  
+  .btn button{
+        align-items: flex-start;
+        margin: 0 auto;
+        margin-top: 0.7rem;
+        display: block;
+        color: #6070ff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 0.4rem;
+        text-align: center;
+        font-family: poppins;
+        margin-left: 16px;
+      
+    color: blue;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    
+  }
+.last{
+    width: 375px;
+height: 34px;
+top: 5376px;
+padding: 21px, 121px, 8px, 120px;
+
+}
+.last img{
+    width: 134px;
+    color: #0D151E;
+
+height: 5px;
+top: 21px;
+left: 120px;
+}
