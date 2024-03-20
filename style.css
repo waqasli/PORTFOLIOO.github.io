@@ -50,6 +50,112 @@ color: #6070FF;
     align-items: center;
     justify-items: center;
 }
+footer{
+    margin-top:1px ;
+    border: 1px solid black;
+    background-image: url('./Assets/header.svg');
+    background-repeat: no-repeat;
+    width: 375px;
+    height:604px;
+    background-color: white;
+    
+
+    
+}
+.intro{
+
+    margin-top: 100px;
+    margin-left: 24px;
+    margin-right: 24px;
+
+    
+
+}
+.intro p{
+  
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0em;
+    color: #172B4D;
+}
+.MySelf{
+    margin-top: 0px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 327px;
+    height: 146px;
+
+}
+.MySelf p{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    margin-top: 0px;
+    text-align: left;
+    letter-spacing: 0em;
+    margin-bottom: 0px;
+
+
+}
+
+.text{
+    width: 117px;
+    height: 24px;
+    border: 0cap;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7F8CFF;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 8px;
+    gap: 16px;
+
+
+
+
+}
+.image{
+    width: 375px;
+    height: 20px;
+    top: 92px;
+    padding: 114px, 24px, 114px, 24px;
+    gap: 12px;
+    margin-top: 8px;
+    margin-left: 24px;
+    margin-right: 24px;
+   
+
+}
+.work{
+    width:375px;
+    height: 2,788px;
+    padding: 114px, 24px, 114px, 24px;
+    gap:88px;
+    
+
+}
+#CardWorks1{
+    margin-top: 90px;
+    width: 327px;
+    height: 552px;
+    padding: 16px;
+    border-radius: 16px;
+    border: 1px solid black;
+    gap: 12px;
+    margin-left: 12px;
+    background: #FFFFFF;
+    border: 1px solid #DFE1E6;
+
+   
+}
 #CardWorks1 img{
     width: 295px;
     height: 220px;
@@ -703,4 +809,5 @@ padding: 21px, 121px, 8px, 120px;
 height: 5px;
 top: 21px;
 left: 120px;
+
 }
