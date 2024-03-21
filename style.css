@@ -56,7 +56,7 @@ color: #6070FF;
 }
 .Baat{
     margin-top:1px ;
-    background-image:url('./Asset/header.svg');
+    background-image:url(./Asset/header.svg);
     background-repeat: no-repeat;
     width: 375px;
     height:604px;
