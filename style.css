@@ -43,17 +43,13 @@ color: #6070FF;
     
 }
 #ham{
-    
     width: 40px;
     height: 40px;
     margin-top: 4px;
     margin-left: 155px;
     
 }
-#ham img{
-    align-items: center;
-    justify-items: center;
-}
+
 .Baat{
     margin-top:1px ;
     background-image:url(./Asset/header.svg);
